@@ -28,7 +28,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
-> cd Swiggy_Clone
+> cd Swigydelivery_app
 > npm install
 > npm start
 ```
