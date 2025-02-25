@@ -8,7 +8,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience](https://swiggy-foodlovers.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://swigyclones.netlify.app/)
 
 ## How to get Started 🚀
 
@@ -17,7 +17,7 @@ Swiggy is an Indian online food ordering and delivery platform. Founded in July 
 #### Familiar with Git ?
 
 ```
-> git clone https://github.com/icyflame21/Swiggy_Clone.git
+> git clone https://github.com/maheshkumar77/Swigydelivery_app
 > cd Swiggy_Clone
 > npm install
 > npm start
@@ -110,4 +110,4 @@ Versions of this project which are currently being supported with security updat
 
 ## Creator 😇
 
-- 👤 [Biswaranjan](https://www.github.com/icyflame21)
+- 👤 [Mahesh Kumar Sahu](https://github.com/maheshkumar77)
